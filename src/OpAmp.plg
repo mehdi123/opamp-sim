@@ -1,0 +1,36 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: OpAmp - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Debug/OpAmp.res" /d "_DEBUG" /d "_AFXDLL" "X:\OpAmp3\OpAmp.rc"" 
+Creating temporary file "C:\DOCUME~1\Ens\LOCALS~1\Temp\RSP162.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/OpAmp.pdb" /debug /machine:I386 /out:"Debug/OpAmp.exe" /pdbtype:sept 
+.\Debug\DataClasses.obj
+.\Debug\Db.obj
+.\Debug\LoadOpAmp.obj
+.\Debug\MainFrm.obj
+.\Debug\NewOpAmp.obj
+.\Debug\OpAmp.obj
+.\Debug\OpAmpDoc.obj
+.\Debug\OpAmpView.obj
+.\Debug\SaveOpAmp.obj
+.\Debug\StdAfx.obj
+.\Debug\OpAmp.res
+]
+Creating command line "link.exe @C:\DOCUME~1\Ens\LOCALS~1\Temp\RSP162.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+OpAmp.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
